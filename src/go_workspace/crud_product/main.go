@@ -23,7 +23,7 @@ var db *sql.DB
 func main() {
 	tpl, _ = template.ParseGlob("templates/*.html")
 	var err error
-	db, err := sql.Open("mysql", "root:Mahik87@@tcp(127.0.0.1:3306)/godb")
+	db, err := sql.Open("mysql", "root:Mahin87@@tcp(127.0.0.1:3306)/godb")
 	if err != nil {
 		panic(err.Error())
 	}

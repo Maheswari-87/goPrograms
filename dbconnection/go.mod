@@ -1,4 +1,4 @@
-module dbconnection
+module dbconnection.go
 
 go 1.16
 

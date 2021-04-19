@@ -31,7 +31,7 @@ func main() {
 		panic(err.Error())
 	}
 
-	insert, err := db.Query("INSERT INTO godb.test (id,firstname,lastname) VALUES ('9','swathi','M');")
+	insert, err := db.Query("INSERT INTO godb.test (id,firstname,lastname) VALUES ('10','Gani','P');")
 	if err != nil {
 		panic(err.Error())
 	}

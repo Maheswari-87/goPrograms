@@ -1,11 +1,14 @@
 package main
 
 import (
+	"encoding/csv"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"log"
 	"net/http"
+	"os"
+	"strconv"
 	"text/template"
 
 	"github.com/valyala/fastjson"
@@ -69,23 +72,44 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 		fmt.Println(Confirmed)
 		fmt.Println(Recovered)
 		fmt.Println(Deaths)
+		s := strconv.FormatFloat(Confirmed, 'f', -1, 64)
+		t := strconv.FormatFloat(Recovered, 'f', -1, 64)
+		u := strconv.FormatFloat(Deaths, 'f', -1, 64)
+		fmt.Printf("%T, %v\n", s, s)
+		fmt.Printf("%T, %v\n", t, t)
+		fmt.Printf("%T, %v\n", u, u)
+		data := []string{i, s, t, u}
+		file := ("C:\\Users\\SRS\\gocode\\src\\workspace\\CovidApp\\data\\state.csv")
+		f, err := os.OpenFile(file, os.O_WRONLY|os.O_CREATE|os.O_APPEND, 0644)
+		if err != nil {
+			fmt.Println("Error: ", err)
+			return
+		}
+		m := csv.NewWriter(f)
 
+		m.Write(data)
+		m.Flush()
+		err = m.Error()
+		if err != nil {
+			log.Fatalln(err)
+		}
 		//s := []float64{Confirmed, Recovered, Deaths}
 		//var s []float64 =abc(Confirmed,Recovered,Deaths)
 		//p1.Execute(w, s)
+
 		p1, err := template.ParseFiles("html/states.html")
-		data := Data{i, Confirmed, Recovered, Deaths}
+		data1 := Data{i, Confirmed, Recovered, Deaths}
 		if err != nil {
 			panic(err)
 		}
-		p1.Execute(w, data)
+		p1.Execute(w, data1)
 	}
 
 }
 
 func handleRequests() {
 	http.HandleFunc("/", homePage)
-	log.Fatal(http.ListenAndServe(":7044", nil))
+	log.Fatal(http.ListenAndServe(":7005", nil))
 }
 func main() {
 	handleRequests()

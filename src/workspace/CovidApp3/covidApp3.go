@@ -1,13 +1,16 @@
 package main
 
 import (
+	"encoding/csv"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
-	"log"
 	"net/http"
+	"os"
+	"strconv"
 	"text/template"
 
+	log "github.com/sirupsen/logrus"
 	"github.com/valyala/fastjson"
 )
 
@@ -22,11 +25,23 @@ type Country struct {
 }*/
 
 type Data struct {
-	State     string
-	Confirmed float64
-	Recovered float64
-	Deaths    float64
+	State        string
+	Capital_city string
+	Confirmed    float64
+	Recovered    float64
+	Deaths       float64
 }
+type details struct {
+	State        string
+	Capital_city string
+	Confirmed    string
+	Recovered    string
+	Deaths       string
+}
+
+/*func parseData() (*Data, error) {
+
+}*/
 
 func homePage(w http.ResponseWriter, r *http.Request) {
 	//fmt.Fprintf(w, "homepage")
@@ -60,6 +75,7 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 
 	//fmt.Println(all)
 	//m := make(map[string]interface{})
+	var Capital_city string
 	var Confirmed float64
 	var Recovered float64
 	var Deaths float64
@@ -79,14 +95,14 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 		//log.Println(all)
 		//all = responseObject[i].(map[string]interface{})
 		state := responseObject[i].(map[string]interface{})
-		//if i != "All" {
-		//state := responseObject[v].(map[string]interface{})
-		//if key == "All" {
-		//all := responseObject[key].(map[string]interface{})
+
 		for _, value := range state {
 			all := value.(map[string]interface{})
 			//country=i
 			for key, value := range all {
+				if key == "capital_city" && value != nil {
+					Capital_city = value.(string)
+				}
 				if key == "confirmed" && value != nil {
 					Confirmed = value.(float64)
 				}
@@ -97,6 +113,7 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 					Deaths = value.(float64)
 				}
 			}
+			//header := []string{`State`, `Capital_city`, `Confirmed`, `Recovered`, `Deaths`}
 		}
 		//}
 		//}
@@ -104,30 +121,153 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 		//}
 
 		fmt.Println(i)
+		fmt.Println(Capital_city)
 		fmt.Println(Confirmed)
 		fmt.Println(Recovered)
 		fmt.Println(Deaths)
+		s := strconv.FormatFloat(Confirmed, 'f', -1, 64)
+		t := strconv.FormatFloat(Recovered, 'f', -1, 64)
+		u := strconv.FormatFloat(Deaths, 'f', -1, 64)
+		//fmt.Printf("%T, %v\n", s, s)
+		//fmt.Printf("%T, %v\n", t, t)
+		//fmt.Printf("%T, %v\n", u, u)
+
+		//data := [][]string{{`State`, `Capital_city`, `Confirmed`, `Recovered`, `Deaths`},
+		//	{i, Capital_city, s, t, u}}
+		//f, err := os.Create("C:\\Users\\SRS\\gocode\\src\\workspace\\CovidApp3\\data\\db.csv")
+		//if err != nil {
+		//	log.Fatalln(err)
+		//}
+		//fmt.Println(user)
+		//defer f.Close()
+		//m := csv.NewWriter(f)
+		//data1 := [][]string{
+		//	header, user1, user,
+		//}
+		//m.Write(header)
+		data := []string{i, Capital_city, s, t, u}
+		file := ("C:\\Users\\SRS\\gocode\\src\\workspace\\CovidApp3\\data\\data.csv")
+		f, err := os.OpenFile(file, os.O_WRONLY|os.O_CREATE|os.O_APPEND, 0644)
+		if err != nil {
+			fmt.Println("Error: ", err)
+			return
+		}
+		m := csv.NewWriter(f)
+		m.Write(data)
+		m.Flush()
+		//m.WriteAll(data)
+
+		//	m.WriteAll(data)
+		//for _, user := range db.users {
+		//ss := user.EncodeAsStrings()
+		//w.Write(ss)
+		//	}
+		err = m.Error()
+		if err != nil {
+			log.Fatalln(err)
+		}
 
 		//s := []float64{Confirmed, Recovered, Deaths}
 		//var s []float64 =abc(Confirmed,Recovered,Deaths)
 		//p1.Execute(w, s)
+		/*header := []string{`State`, `Capital_city`, `Confirmed`, `Recovered`, `Deaths`}
+		s := strconv.FormatFloat(Confirmed, 'f', -1, 64)
+		t := strconv.FormatFloat(Recovered, 'f', -1, 64)
+		u := strconv.FormatFloat(Deaths, 'f', -1, 64)
+		fmt.Printf("%T, %v\n", s, s)
+		fmt.Printf("%T, %v\n", t, t)
+		fmt.Printf("%T, %v\n", u, u)
+
+		data := []string{i, Capital_city, s, t, u}
+		f, err := os.Create("C:\\Users\\SRS\\gocode\\src\\workspace\\CovidApp3\\data\\db.csv")
+		if err != nil {
+			log.Fatalln(err)
+		}
+		//fmt.Println(user)
+		defer f.Close()
+		m := csv.NewWriter(f)
+		//data1 := [][]string{
+		//	header, user1, user,
+		//}
+		m.Write(header)
+		for i := 0; i < len(data); i++ {
+			m.Write(data)
+		}
+
+		//for _, user := range db.users {
+		//ss := user.EncodeAsStrings()
+		//w.Write(ss)
+		//	}
+		m.Flush()
+		err = m.Error()
+		if err != nil {
+			log.Fatalln(err)
+		}*/
+
 		p1, err := template.ParseFiles("html/country.html")
-		data := Data{i, Confirmed, Recovered, Deaths}
+		data1 := Data{i, Capital_city, Confirmed, Recovered, Deaths}
+
+		//m := csv.NewWriter(os.Stdout)
+		//data=[]string{
+		//	i,Capital_city,Confirmed,Recovered,Deaths,
+		//}
+		//m.Write(data)
 		if err != nil {
 			panic(err)
 		}
-		p1.Execute(w, data)
+		p1.Execute(w, data1)
 	}
 
 }
 
 func handleRequests() {
 	http.HandleFunc("/", homePage)
-	log.Fatal(http.ListenAndServe(":7034", nil))
+	log.Fatal(http.ListenAndServe(":7007", nil))
 }
 func main() {
+	/*db, err := readJSONFile("CovidApp3/db.json")
+	if err != nil {
+		log.Fatalln(err)
+	}
+	//header := []string{`State`, `Capital_city`, `Confirmed`, `Recovered`, `Deaths`}
+	//user1 := []string{`Afghanistan`, `Kabul`, `58312`, `52348`, `2561`}
+	//user := []string{
+	//	`Albania`, `Tirana`, `130114`, `103582`, `2364`,
+	//}
+	f, err := os.Create("CovidApp3/db.csv")
+	if err != nil {
+		log.Fatalln(err)
+	}
+	//fmt.Println(user)
+	defer f.Close()
+	w := csv.NewWriter(f)
+	//data1 := [][]string{
+	//	header, user1, user,
+	//}
+	w.Write(types.GetHeader())
+	for _, user := range db.users {
+		ss := user.EncodeAsStrings()
+		w.Write(ss)
+	}
+	w.Flush()
+	err = w.Error()
+	if err != nil {
+		log.Fatalln(err)
+	}*/
 	handleRequests()
 }
+
+/*func readJSONFile(s string) { //(db *types.UserDb,err error){
+	f, err := os.Open(s)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer f.Close()
+	var dec = json.NewDecoder(f)
+	db := new(types.User)
+	dec.Decode(db)
+	return
+}*/
 
 /*func main() {
 	response, err := http.Get("https://covid-api.mmediagroup.fr/v1/cases?country=India")
@@ -174,3 +314,11 @@ func main() {
 //p1.Execute(w, out)
 ///p1.Execute(w, out1)
 //p1.Execute(w, out2)
+/*s := strconv.FormatFloat(Confirmed, 'f', -1, 64)
+t := strconv.FormatFloat(Confirmed, 'f', -1, 64)
+u := strconv.FormatFloat(Confirmed, 'f', -1, 64)
+fmt.Printf("%T, %v\n", s, s)
+fmt.Printf("%T, %v\n", t, t)
+fmt.Printf("%T, %v\n", u, u)
+
+data := []string{"i", "Capital_city", "s", "t", "u"}*/

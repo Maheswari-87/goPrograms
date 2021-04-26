@@ -27,13 +27,6 @@ type Country struct {
 type Data struct {
 	State        string
 	Capital_city string
-	Confirmed    float64
-	Recovered    float64
-	Deaths       float64
-}
-type details struct {
-	State        string
-	Capital_city string
 	Confirmed    string
 	Recovered    string
 	Deaths       string
@@ -79,21 +72,15 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 	var Confirmed float64
 	var Recovered float64
 	var Deaths float64
+	p1, err := template.ParseFiles("html/headers.html")
+	if err != nil {
+		log.Fatalln(err)
+	}
+
+	p1.Execute(w, "Hi")
+
 	for _, i := range keys {
-		//var all []string
-		//v.GetObject().Visit(func(key []byte, values *fastjson.Value) {
-		//	keys = append(all, string(key))
-		//})
-		//fmt.Println(all)
-		//var cont Country
-		//json.Unmarshal([]byte(data), &cont)
-		//if cont.All == "All" {
-		//all, err := json.Get("keys").GetIndex(0).String("All")
-		//if err != nil {
-		//	panic(err)
-		//}
-		//log.Println(all)
-		//all = responseObject[i].(map[string]interface{})
+
 		state := responseObject[i].(map[string]interface{})
 
 		for _, value := range state {
@@ -205,16 +192,8 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 		}*/
 
 		//m := csv.NewWriter(os.Stdout)
-		//data=[]string{
-		//	i,Capital_city,Confirmed,Recovered,Deaths,
-		//}
-		//m.Write(data)
-		//if err != nil {
-		//	panic(err)
-		//}
-		//p1.Execute(w, data1)
 		p1, err := template.ParseFiles("html/country.html")
-		data1 := Data{i, Capital_city, Confirmed, Recovered, Deaths}
+		data1 := Data{i, Capital_city, s, t, u}
 		if err != nil {
 			panic(err)
 		}
@@ -225,7 +204,7 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 
 func handleRequests() {
 	http.HandleFunc("/", homePage)
-	log.Fatal(http.ListenAndServe(":7023", nil))
+	log.Fatal(http.ListenAndServe(":7097", nil))
 }
 func main() {
 	/*db, err := readJSONFile("CovidApp3/db.json")

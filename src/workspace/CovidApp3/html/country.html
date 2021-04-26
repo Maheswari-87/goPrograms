@@ -10,19 +10,19 @@
   </head>
   <body style=background-color:mediumpurple;margin-left:25px;margin-top:30px;border:5px red solid 10px>
       <table cellspacing="0" width=70% bordercolor="black" border="2" align="center">
-        <h3 align="center">Covid Cases of:{{.State}}</h2>
-        <tr>
+     <!--  <h3 align="center">Covid Cases of:{{.State}}</h2>-->
+       <!-- <tr>
             <th bgcolor="#C0C0C0">Capital_city</th>
             <th bgcolor="#C0C0C0">Confirmed</th>
             <th bgcolor="#C0C0C0">Recovered</th>
             <th bgcolor="#C0C0C0">Deaths</th>
 
-        </tr>
+        </tr>-->
         <tr>
-            <td>{{.Capital_city}}</td>
-            <td>{{.Confirmed}}</td>
-            <td>{{.Recovered}}</td>
-            <td>{{.Deaths}}</td>
+            <td width=40%>{{.Capital_city}}</td>
+            <td width=25%>{{.Confirmed}}</td>
+            <td width=25%>{{.Recovered}}</td>
+            <td width=25%>{{.Deaths}}</td>
         </tr>
     
     </table>

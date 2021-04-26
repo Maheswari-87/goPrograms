@@ -16,9 +16,9 @@ import (
 
 type Data struct {
 	State     string
-	Confirmed float64
-	Recovered float64
-	Deaths    float64
+	Confirmed string
+	Recovered string
+	Deaths    string
 }
 
 func homePage(w http.ResponseWriter, r *http.Request) {
@@ -55,6 +55,11 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 	var Confirmed float64
 	var Recovered float64
 	var Deaths float64
+	p2, err := template.ParseFiles("html/headers.html")
+	if err != nil {
+		panic(err)
+	}
+	p2.Execute(w, "HI")
 	for _, i := range keys {
 		state := responseObject[i].(map[string]interface{})
 		for key, value := range state {
@@ -75,9 +80,9 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 		s := strconv.FormatFloat(Confirmed, 'f', -1, 64)
 		t := strconv.FormatFloat(Recovered, 'f', -1, 64)
 		u := strconv.FormatFloat(Deaths, 'f', -1, 64)
-		fmt.Printf("%T, %v\n", s, s)
-		fmt.Printf("%T, %v\n", t, t)
-		fmt.Printf("%T, %v\n", u, u)
+		//fmt.Printf("%T, %v\n", s, s)
+		//fmt.Printf("%T, %v\n", t, t)
+		//fmt.Printf("%T, %v\n", u, u)
 		data := []string{i, s, t, u}
 		file := ("C:\\Users\\SRS\\gocode\\src\\workspace\\CovidApp\\data\\state.csv")
 		f, err := os.OpenFile(file, os.O_WRONLY|os.O_CREATE|os.O_APPEND, 0644)
@@ -98,7 +103,8 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 		//p1.Execute(w, s)
 
 		p1, err := template.ParseFiles("html/states.html")
-		data1 := Data{i, Confirmed, Recovered, Deaths}
+		//data1 := Data{i, Confirmed, Recovered, Deaths}
+		data1 := Data{i, s, t, u}
 		if err != nil {
 			panic(err)
 		}
@@ -109,7 +115,7 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 
 func handleRequests() {
 	http.HandleFunc("/", homePage)
-	log.Fatal(http.ListenAndServe(":7005", nil))
+	log.Fatal(http.ListenAndServe(":7091", nil))
 }
 func main() {
 	handleRequests()

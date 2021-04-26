@@ -1,3 +1,4 @@
+State,Capital_city,Confirmed,Recovered,Deaths
 Afghanistan,Kabul,58542,52363,2565
 Albania,Tirana,130270,104278,2367
 Algeria,Alger,120562,84038,3190
@@ -384,3 +385,4249 @@ Zambia,Lusaka,91251,89256,1245
 Zimbabwe,Harare,38045,35094,1556
 US,Washington,93231,0,1281
 Global,Washington,145667826,83801691,3086803
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,984,946,9
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],18287,0,23954
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,195191,176222,4088
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142687,131921,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,123758,113139,1554
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,55,48,0
+China,Peking,717,708,0
+Colombia,Santaf,68477,65316,2194
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,247157,235033,2473
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,18545,9995,96
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,7863,0,0
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,13089,10920,135
+Indonesia,Jakarta,1632248,1487369,44346
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,95834,86052,2896
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,1120,1029,19
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114244,103953,2094
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2855,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,387535,363608,1415
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,72772,0,6472
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,34236,0,245
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,72613,59080,657
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,29261,0,858
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,86339,77317,3987
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60943,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,235711,220505,4195
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,8563,125,88
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,21852,0,439
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9383,8065,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,59503,51209,1494
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,0,0,0
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,150693,0,2813
+Global,Washington,145698816,83857435,3087817
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,159,111,0
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],37068,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,195191,176222,4088
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142687,131921,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,1172697,1066739,23870
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,47649,45198,944
+China,Peking,18,18,0
+Colombia,Santaf,229982,216757,7041
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,1720,1399,12
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,38254,33190,962
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,1051487,943044,13395
+Indonesia,Jakarta,1632248,1487369,44346
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,201420,170871,5265
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,2120,2001,21
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114244,103953,2094
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2855,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,387535,363608,1415
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,63683,0,4014
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,12058,10291,102
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,112140,94675,3066
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,29189,0,899
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,58077,52640,913
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60943,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,235711,220505,4195
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,58885,1533,798
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,17811,0,302
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9383,8065,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,191165,119737,4415
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,0,0,0
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,308883,0,4924
+Global,Washington,145698816,83857435,3087817
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,984,946,9
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],143150,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,720749,669491,42634
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,175,164,0
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,67211,62004,1143
+China,Peking,1317,1310,7
+Colombia,Santaf,121396,114761,3236
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,18725,4842,141
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,253699,224900,8909
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,4161676,3404792,63252
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,791137,702119,32569
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,1249,1052,29
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,36665,0,3575
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,3370,0,13
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,72613,59080,657
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,29261,0,858
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,22423,22016,41
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,5699,163,103
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,136944,0,1669
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,69457,59153,973
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,0,0,0
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,102593,0,1609
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,704,675,4
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],111290,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,868607,833192,13014
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,80,77,1
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,55,48,0
+China,Peking,594,585,6
+Colombia,Santaf,49970,47018,1366
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,18545,9995,96
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,57021,50790,1496
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,190692,145499,1778
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,10598,9311,446
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,1674,1419,43
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,29882,0,1337
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,229985,0,3057
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,112140,94675,3066
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,14715,0,532
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,14363,13798,171
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,29208,3107,757
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,165866,0,2283
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,13932,12790,606
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,0,0,0
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,146324,0,2660
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,159,111,0
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],53730,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,2811562,2440374,91673
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,342688,320302,10860
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,4085,3866,30
+China,Peking,18,18,0
+Colombia,Santaf,76785,73685,1499
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,663,661,1
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,440,44,5
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,111876,98140,3736
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,0,0,0
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,316047,261777,7468
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,353,270,2
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,47421,0,8032
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,160476,0,1948
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,285542,232135,7897
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,12557,0,220
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,36008,33553,680
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,0,0,0
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,35174,0,513
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,66795,47831,1452
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,119559,0,2141
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,218197,0,2241
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,984,946,9
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],119349,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,391740,330763,13524
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,80,77,1
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,67221,64618,889
+China,Peking,717,708,0
+Colombia,Santaf,52826,50342,1842
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,25,24,0
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,253699,224900,8909
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,1350501,1166135,5055
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,97650,87265,4119
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,8,8,0
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,36665,0,3575
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,111740,0,1231
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,112140,94675,3066
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,22948,0,719
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,58214,52849,917
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,541843,10671,9528
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,10419,0,118
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,69129,58020,1462
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,3845537,0,112054
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,47141,0,1099
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,20508,19665,820
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],18287,0,23954
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,2811562,2440374,91673
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,37069,34366,964
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,24577,23539,366
+China,Peking,270,265,2
+Colombia,Santaf,1216,1195,13
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,5502014,336234,102655
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,424960,373900,9201
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,142349,110379,2021
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,406066,371556,11203
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,2010,1547,22
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,0,1845008,0
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,3370,0,13
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,285542,232135,7897
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,12417,0,344
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,35831,25990,324
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,58885,1533,798
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,32223,0,543
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,69457,59153,973
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,531,509,2
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,164,0,2
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,234,221,13
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],53730,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,868607,833192,13014
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,80,77,1
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,4085,3866,30
+China,Peking,187,165,6
+Colombia,Santaf,7581,7064,213
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,247157,235033,2473
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,440,44,5
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,135024,118000,3513
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,483273,362526,3453
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,201420,170871,5265
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,2644,2493,3
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,72772,0,6472
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,94198,0,1101
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,790016,686488,16999
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,25458,0,692
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,44528,41536,979
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,541843,10671,9528
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,23883,0,340
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,55592,46483,953
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,211162,0,5543
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,334766,0,8047
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,20508,19665,820
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],123386,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,261350,234573,7063
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,1839,1656,34
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,81259,75002,2197
+China,Peking,937,936,1
+Colombia,Santaf,52826,50342,1842
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,1720,1399,12
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,253605,222200,6733
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,713780,628218,10825
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,70203,58607,2360
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,1146,970,20
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,121975,0,9272
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,37719,0,459
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,5247,5033,104
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,25458,0,692
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,31979,31040,386
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,669268,40736,14905
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,15797,0,196
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,52083,39743,1075
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,4283,4173,94
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,573225,0,9404
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,29656,23192,910
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],111290,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,208292,190718,4999
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,1938,1721,67
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,81259,75002,2197
+China,Peking,876,862,7
+Colombia,Santaf,1411,1371,22
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,1720,1399,12
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,87040,76510,3034
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,5569,5358,65
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,201420,170871,5265
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,1115,685,31
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,59298,0,9346
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,160476,0,1948
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,5247,5033,104
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,37933,0,1387
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,32378,29056,804
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,120579,9204,2366
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,38026,0,544
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,70956,59565,1074
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,211162,0,5543
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,3729116,0,61401
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,20508,19665,820
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],52399,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,94769,89008,1472
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,441,400,4
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,55,48,0
+China,Peking,1331,1320,1
+Colombia,Santaf,55658,51304,2081
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,247157,235033,2473
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,5502014,336234,102655
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,111876,98140,3736
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,37232,32180,430
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,406066,371556,11203
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,1120,1029,19
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,9263,0,1181
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,37719,0,459
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,276670,261871,4587
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,11049,1670805,408
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,1094,1066,4
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,29208,3107,757
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,38026,0,544
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,55592,46483,953
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,2315,1572,23
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,587870,0,9068
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,984,946,9
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],87233,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,460306,431220,12354
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,13,13,0
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,19471,18300,388
+China,Peking,18,18,0
+Colombia,Santaf,29754,28155,801
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,18725,4842,141
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,57021,50790,1496
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,1013370,728980,10737
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,406066,371556,11203
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,2147,1754,17
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,46837,0,5510
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,111740,0,1231
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,790016,686488,16999
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,62393,0,3599
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,43369,40775,708
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,0,0,0
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,222719,0,4160
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,66795,47831,1452
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,211162,0,5543
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,1061907,0,19122
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,1525,1454,7
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],28349,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,942712,905523,23975
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,39392,36458,471
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,19471,18300,388
+China,Peking,102351,97008,4845
+Colombia,Santaf,1529,1500,23
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,5502014,336234,102655
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,229651,206700,5209
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,156344,137240,2111
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,13028,11941,467
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,12116,10540,134
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,2323430,1845008,214504
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,37719,0,459
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,112140,94675,3066
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,27904,0,756
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,79595,74828,2588
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,0,0,0
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,34320,0,599
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,39869,37068,1186
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,1585,1545,29
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,440149,0,6403
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,984,946,9
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],28349,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,391740,330763,13524
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,342688,320302,10860
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,32702,31066,595
+China,Peking,573,570,3
+Colombia,Santaf,26313,24491,946
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,25,24,0
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,99514,88280,3498
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,394694,356003,1973
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,10598,9311,446
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,5687,5236,103
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,19294,0,2375
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,96447,0,1565
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,276670,261871,4587
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,29261,0,858
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,86575,77517,4004
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,28004,2287,554
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,15797,0,196
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,126843,95415,3154
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,20,19,1
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,218197,0,2241
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,984,946,9
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],18287,0,23954
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,868607,833192,13014
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,1839,1656,34
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,4085,3866,30
+China,Peking,994,988,6
+Colombia,Santaf,100313,94150,3601
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,663,661,1
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,1720,1399,12
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,135024,118000,3513
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,34429,33390,394
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,201420,170871,5265
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,5687,5236,103
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,130140,0,10471
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,245594,0,2491
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,112140,94675,3066
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,12417,0,344
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,79595,74828,2588
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,58885,1533,798
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,17811,0,302
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,83301,75456,1926
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,63,62,0
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,587870,0,9068
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,234,221,13
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],28349,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,215824,150649,5254
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,123758,113139,1554
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,111596,105429,1824
+China,Peking,968,948,3
+Colombia,Santaf,49866,45634,2170
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,1720,1399,12
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,135024,118000,3513
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,713780,628218,10825
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,10598,9311,446
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,2644,2493,3
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,242530,0,33643
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,344280,0,4100
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,276670,261871,4587
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,58354,0,2005
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,31458,29534,387
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,28004,2287,554
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,23883,0,340
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,64664,54765,1021
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,4,4,0
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,956932,0,12523
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,984,946,9
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],28349,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,942712,905523,23975
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,80,77,1
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,24577,23539,366
+China,Peking,102351,97008,4845
+Colombia,Santaf,26279,24334,831
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,1720,1399,12
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,111876,98140,3736
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,0,0,0
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,406066,371556,11203
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,12116,10540,134
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,11142,0,1171
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,229985,0,3057
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,5247,5033,104
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,12417,0,344
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,29149,27715,849
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,0,0,0
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,34320,0,599
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,81560,64857,1535
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,2315,1572,23
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,0,0,0
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,123,120,3
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],143150,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,155939,137045,2440
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,13,13,0
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,81259,75002,2197
+China,Peking,383,372,3
+Colombia,Santaf,45602,43961,1042
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,958,462,1
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,111876,98140,3736
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,394694,356003,1973
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,406066,371556,11203
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,1120,1029,19
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,56127,0,4810
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,29861,0,341
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,21477,20105,230
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,29189,0,899
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,44378,41719,611
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,58786,3905,1144
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,38026,0,544
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,69457,59153,973
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,531,509,2
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,525477,0,10840
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,984,946,9
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],37068,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,195191,176222,4088
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,13,13,0
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,32492,30875,364
+China,Peking,0,5,0
+Colombia,Santaf,218229,199951,6185
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,663,661,1
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,440,44,5
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,253605,222200,6733
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,713780,628218,10825
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,406066,371556,11203
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,1249,1052,29
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,59298,0,9346
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,111740,0,1231
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,112140,94675,3066
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,29261,0,858
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,41657,38864,343
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,120579,9204,2366
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,37018,0,306
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,82770,64049,1531
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,1585,1545,29
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,121850,0,1957
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,704,675,4
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],143150,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,425549,398099,9079
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,1053,1020,6
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,47649,45198,944
+China,Peking,75,75,0
+Colombia,Santaf,758895,701961,15199
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,9758,98,66
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,69925,60790,1456
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,1013370,728980,10737
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,43468,40896,1333
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,1249,1052,29
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,33259,0,2361
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,10505,10069,97
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,72613,59080,657
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,29189,0,899
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,69654,64232,3439
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,0,0,0
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,23883,0,340
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,59503,51209,1494
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,4416619,14374,127638
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,334766,0,8047
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,984,946,9
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],53730,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,94769,89008,1472
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,80,77,1
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,24994,23608,447
+China,Peking,1,1,0
+Colombia,Santaf,121396,114761,3236
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,31,31,0
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,12927,2242,194
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,7863,0,0
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,233453,218339,1172
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,201420,170871,5265
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,5667,5223,107
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,22616,0,2591
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,94198,0,1101
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,790016,686488,16999
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,12557,0,220
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,23889,21754,1342
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,51617,1537,721
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,23883,0,340
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,66795,47831,1452
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,0,0,0
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,440149,0,6403
+Global,Washington,145717857,83875153,3088402
+Afghanistan,Kabul,58542,52363,2565
+Albania,Tirana,130270,104278,2367
+Algeria,Alger,120562,84038,3190
+Andorra,Andorra la Vella,13007,12423,123
+Angola,Luanda,25279,23089,574
+Antigua and Barbuda,Saint John's,1222,995,31
+Argentina,Buenos Aires,2824652,2474514,61176
+Armenia,Yerevan,212878,193360,4001
+Australia,Canberra,984,946,9
+Austria,Wien,606954,570684,10070
+Azerbaijan,Baku,309789,274766,4307
+Bahamas,Nassau,9976,9215,196
+Bahrain,al-Manama,169254,158133,617
+Bangladesh,Dhaka,739703,647674,10869
+Barbados,Bridgetown,3820,3718,44
+Belarus,Minsk,350221,340660,2473
+Belgium,Bruxelles [Brussel],73931,0,0
+Belize,Belmopan,12599,12168,321
+Benin,Porto-Novo,7720,7510,97
+Bhutan,Thimphu,1008,926,1
+Bolivia,La Paz,295892,244079,12783
+Bosnia and Herzegovina,Sarajevo,194733,153408,8203
+Botswana,Gaborone,45855,41338,691
+Brazil,Brasília,261350,234573,7063
+Brunei,Bandar Seri Begawan,223,210,3
+Bulgaria,Sofia,396302,323877,15826
+Burkina Faso,Ouagadougou,13231,12887,156
+Burma,Ouagadougou,142704,131925,3206
+Burundi,Bujumbura,3759,773,6
+Cabo Verde,Bujumbura,21784,18959,201
+Cambodia,Phnom Penh,8848,3148,61
+Cameroon,Yaound,65998,35261,991
+Canada,Ottawa,1839,1656,34
+Central African Republic,Bangui,6224,5112,85
+Chad,N'Djam,4747,4382,169
+Chile,Santiago de Chile,1155902,1084831,25641
+China,Peking,408,406,2
+Colombia,Santaf,1216,1195,13
+Comoros,Moroni,3829,3650,146
+Congo (Brazzaville),Moroni,10084,8208,139
+Congo (Kinshasa),Moroni,29405,26135,752
+Costa Rica,San Jos,236930,199982,3136
+Cote d'Ivoire,Yamoussoukro,45765,45311,279
+Croatia,Zagreb,318837,295885,6784
+Cuba,La Habana,99208,92960,569
+Cyprus,Nicosia,60681,39061,297
+Czechia,Praha,1618068,1524041,28920
+Denmark,Copenhagen,247157,235033,2473
+Diamond Princess,Copenhagen,712,699,13
+Djibouti,Djibouti,10738,10207,132
+Dominica,Roseau,173,171,0
+Dominican Republic,Santo Domingo de Guzm,263470,220678,3448
+Ecuador,Quito,371306,309541,18062
+Egypt,Cairo,220658,166024,12959
+El Salvador,San Salvador,68318,64340,2098
+Equatorial Guinea,Malabo,7559,7097,107
+Eritrea,Asmara,3605,3410,10
+Estonia,Tallinn,120000,107298,1137
+Eswatini,Tallinn,18434,17730,671
+Ethiopia,Addis Abeba,249292,188080,3511
+Fiji,Suva,87,65,2
+Finland,Helsinki [Helsingfors],85344,46000,903
+France,Paris,19343,17653,141
+Gabon,Libreville,22433,19074,138
+Gambia,Banjul,5820,5272,173
+Georgia,Tbilisi,302785,284749,4007
+Germany,Berlin,35985,32590,962
+Ghana,Accra,91928,89729,777
+Greece,Athenai,329134,93764,9864
+Grenada,Saint George's,159,155,1
+Guatemala,Ciudad de Guatemala,219789,194964,7374
+Guinea,Conakry,21803,19107,139
+Guinea-Bissau,Bissau,3722,3222,66
+Guyana,Georgetown,12448,10619,277
+Haiti,Port-au-Prince,12944,11945,251
+Holy See,Citt,27,15,0
+Honduras,Tegucigalpa,205696,77531,5095
+Hungary,Budapest,767190,478323,26420
+Iceland,Reykjav,6390,6227,29
+India,New Delhi,12889,12338,94
+Indonesia,Jakarta,1636792,1492322,44500
+Iran,Tehran,2358809,1850791,68746
+Iraq,Baghdad,1018321,891007,15174
+Ireland,Dublin,245743,23364,4867
+Israel,Jerusalem,837892,829696,6346
+Italy,Roma,97650,87265,4119
+Jamaica,Kingston,44642,20275,752
+Japan,Tokyo,5687,5236,103
+Jordan,Amman,699164,661432,8514
+Kazakhstan,Astana,355918,310933,3304
+Kenya,Nairobi,155165,106093,2583
+"Korea, South",Seoul,118243,107781,1812
+Kosovo,Seoul,102720,89432,2115
+Kuwait,Kuwait,264198,247136,1502
+Kyrgyzstan,Bishkek,93603,87880,1578
+Laos,Vientiane,159,49,0
+Latvia,Riga,114955,103953,2101
+Lebanon,Beirut,518104,441631,7090
+Lesotho,Maseru,10723,6267,316
+Liberia,Monrovia,2097,1940,85
+Libya,Tripoli,174752,160113,2947
+Liechtenstein,Vaduz,2866,2724,57
+Lithuania,Vilnius,240522,217779,3841
+Luxembourg,Luxembourg [Luxemburg/L,66007,62183,790
+MS Zaandam,Luxembourg [Luxemburg/L,9,7,2
+Madagascar,Antananarivo,34775,27646,588
+Malawi,Lilongwe,33989,31864,1145
+Malaysia,Kuala Lumpur,390252,365900,1426
+Maldives,Male,27403,24116,71
+Mali,Bamako,13504,7804,460
+Malta,Valletta,30129,29204,412
+Marshall Islands,Dalap-Uliga-Darrit,4,4,0
+Mauritania,Nouakchott,18207,17560,454
+Mauritius,Port-Louis,1205,996,16
+Mexico,Ciudad de M,33259,0,2361
+Micronesia,Ciudad de M,1,1,0
+Moldova,Chisinau,248518,235965,5691
+Monaco,Monaco-Ville,2426,2317,31
+Mongolia,Ulan Bator,29219,14745,74
+Montenegro,Ulan Bator,96348,92142,1457
+Morocco,Rabat,508530,494415,8983
+Mozambique,Maputo,69597,62408,806
+Namibia,Windhoek,47383,45278,622
+Nepal,Kathmandu,294601,276755,3122
+Netherlands,Amsterdam,2214,2174,27
+New Zealand,Wellington,2600,2542,26
+Nicaragua,Managua,6835,4225,181
+Niger,Niamey,5143,4812,191
+Nigeria,Abuja,164633,154643,2061
+North Macedonia,Skopje,149710,127139,4628
+Norway,Oslo,110061,17998,736
+Oman,Masqat,185278,165051,1942
+Pakistan,Islamabad,112140,94675,3066
+Panama,Ciudad de Panam,362358,352255,6200
+Papua New Guinea,Port Moresby,10338,7364,99
+Paraguay,Asunci,263134,215702,5715
+Peru,Lima,48543,0,1117
+Philippines,Manila,989380,883221,16674
+Poland,Warszawa,2751632,2422659,65222
+Portugal,Lisboa,833397,791751,16957
+Qatar,Doha,200778,178461,413
+Romania,Bucuresti,1042521,963840,27113
+Russia,Moscow,112904,108094,3108
+Rwanda,Kigali,24459,22696,328
+Saint Kitts and Nevis,Basseterre,44,44,0
+Saint Lucia,Castries,4455,4290,70
+Saint Vincent and the Grenadines,Kingstown,1827,1703,10
+Samoa,Apia,3,2,0
+San Marino,San Marino,5047,4839,89
+Sao Tome and Principe,S,2292,2227,35
+Saudi Arabia,Riyadh,410191,393671,6878
+Senegal,Dakar,40022,38786,1097
+Serbia,Dakar,675904,0,6164
+Seychelles,Victoria,5206,4675,26
+Sierra Leone,Freetown,4044,2914,79
+Singapore,Singapore,60966,60613,30
+Slovakia,Bratislava,379476,255300,11458
+Slovenia,Ljubljana,236613,221814,4203
+Solomon Islands,Honiara,20,18,0
+Somalia,Mogadishu,13459,5593,689
+South Africa,Pretoria,1572985,1499110,54066
+South Sudan,Juba,10515,10250,114
+Spain,Madrid,220867,8716,6735
+Sri Lanka,Madrid,99691,94036,638
+Sudan,Khartum,33673,26411,2300
+Suriname,Paramaribo,9932,9002,193
+Sweden,Stockholm,15797,0,196
+Switzerland,Bern,646509,317600,10567
+Syria,Damascus,21864,15551,1510
+Taiwan*,Damascus,1090,1044,11
+Tajikistan,Dushanbe,13308,13218,90
+Tanzania,Dodoma,509,183,21
+Thailand,Bangkok,53022,26873,129
+Timor-Leste,Bangkok,1739,814,3
+Togo,Lom,12742,10614,121
+Trinidad and Tobago,Port-of-Spain,9487,8092,157
+Tunisia,Tunis,296343,246001,10170
+Turkey,Ankara,4550820,3970111,37672
+Uganda,Kampala,41575,40898,341
+Ukraine,Kyiv,30056,23960,874
+United Arab Emirates,Abu Dhabi,506845,488664,1567
+United Kingdom,London,0,0,0
+Uruguay,Montevideo,179537,148561,2227
+Uzbekistan,Toskent,88679,85536,642
+Vanuatu,Port-Vila,4,3,1
+Venezuela,Caracas,189381,172035,2009
+Vietnam,Hanoi,2832,2490,35
+West Bank and Gaza,Hanoi,289120,259105,3138
+Yemen,Sanaa,6056,2454,1165
+Zambia,Lusaka,91251,89256,1245
+Zimbabwe,Harare,38045,35094,1556
+US,Washington,22416,0,243
+Global,Washington,145717857,83875153,3088402

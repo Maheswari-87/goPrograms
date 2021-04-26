@@ -204,14 +204,17 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 			log.Fatalln(err)
 		}*/
 
-		p1, err := template.ParseFiles("html/country.html")
-		data1 := Data{i, Capital_city, Confirmed, Recovered, Deaths}
-
 		//m := csv.NewWriter(os.Stdout)
 		//data=[]string{
 		//	i,Capital_city,Confirmed,Recovered,Deaths,
 		//}
 		//m.Write(data)
+		//if err != nil {
+		//	panic(err)
+		//}
+		//p1.Execute(w, data1)
+		p1, err := template.ParseFiles("html/country.html")
+		data1 := Data{i, Capital_city, Confirmed, Recovered, Deaths}
 		if err != nil {
 			panic(err)
 		}
@@ -222,7 +225,7 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 
 func handleRequests() {
 	http.HandleFunc("/", homePage)
-	log.Fatal(http.ListenAndServe(":7007", nil))
+	log.Fatal(http.ListenAndServe(":7023", nil))
 }
 func main() {
 	/*db, err := readJSONFile("CovidApp3/db.json")

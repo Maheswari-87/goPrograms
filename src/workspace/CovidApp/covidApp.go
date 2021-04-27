@@ -103,7 +103,7 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 		//p1.Execute(w, s)
 
 	}
-	p1, err := template.ParseFiles("html/new.html")
+	p1, err := template.ParseFiles("html/first.html")
 	//data1 := Data{i, Confirmed, Recovered, Deaths}
 	//data1 := Data{i, s, t, u}
 	if err != nil {
@@ -115,7 +115,7 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 
 func handleRequests() {
 	http.HandleFunc("/", homePage)
-	log.Fatal(http.ListenAndServe(":7022", nil))
+	log.Fatal(http.ListenAndServe(":7026", nil))
 }
 func main() {
 	handleRequests()

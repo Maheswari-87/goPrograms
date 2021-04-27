@@ -55,11 +55,11 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 	var Confirmed float64
 	var Recovered float64
 	var Deaths float64
-	p2, err := template.ParseFiles("html/headers.html")
-	if err != nil {
-		panic(err)
-	}
-	p2.Execute(w, "HI")
+	//p2, err := template.ParseFiles("html/headers.html")
+	//if err != nil {
+	//	panic(err)
+	//}
+	//p2.Execute(w, "HI")
 	for _, i := range keys {
 		state := responseObject[i].(map[string]interface{})
 		for key, value := range state {
@@ -102,20 +102,20 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 		//var s []float64 =abc(Confirmed,Recovered,Deaths)
 		//p1.Execute(w, s)
 
-		p1, err := template.ParseFiles("html/states.html")
-		//data1 := Data{i, Confirmed, Recovered, Deaths}
-		data1 := Data{i, s, t, u}
-		if err != nil {
-			panic(err)
-		}
-		p1.Execute(w, data1)
 	}
+	p1, err := template.ParseFiles("html/new.html")
+	//data1 := Data{i, Confirmed, Recovered, Deaths}
+	//data1 := Data{i, s, t, u}
+	if err != nil {
+		panic(err)
+	}
+	p1.Execute(w, "Hi")
 
 }
 
 func handleRequests() {
 	http.HandleFunc("/", homePage)
-	log.Fatal(http.ListenAndServe(":7091", nil))
+	log.Fatal(http.ListenAndServe(":7022", nil))
 }
 func main() {
 	handleRequests()
